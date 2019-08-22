@@ -273,6 +273,10 @@
   color: #fff;
 }
 
+#digital .boxcolor {
+  background-color: #64a19d;
+}
+
 body {
   font-family: 'Nunito';
   letter-spacing: 0.0625em;
